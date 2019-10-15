@@ -9,8 +9,8 @@ P {
 	font-size: 30px;
 }
 div {
-	width: 400px;
-	min-height: 400px;
+	width: 500px;
+	min-height: 500px;
 	border: 10px solid black;
 	float: left;
 	padding: 4%;
